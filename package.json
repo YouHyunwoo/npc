@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "name": "npc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "server": "node ./web/main.js",
+    "test": "node ./test/main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
